@@ -220,13 +220,13 @@ gitment:
     owner: traperr
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: 8db3bd2b5ccb60b4bd6d
+        client_secret: 9353d1b17c445e2d5b1f9a84e6b5eb47c2676c4f
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: traperr
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: 1bfc53
+    clientSecret: 9353d1b17c445e2d5b1f9a84e6b5eb47c2676c4f
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
