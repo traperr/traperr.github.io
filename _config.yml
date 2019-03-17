@@ -85,7 +85,6 @@ navs:
     href: /
     label: Home
   -
-    
     href: /java.html
     label: Java
     target: _self 
@@ -137,12 +136,12 @@ navs:
         subLabel: 操作系统
   -
     href: /zhongjian.html
-    label: 中间件
+    label: Middleware
     target: _self 
     subnav:
       -
         subHref: /betnw.html
-        subLabel: 中间件
+        subLabel: Middleware
       -
         subHref: /tomcat.html
         subLabel: Tomcat
@@ -157,12 +156,12 @@ navs:
         subLabel: Nginx
   -
     href: /front.html
-    label: 前端
+    label: Front
     target: _self 
     subnav:
       -
         subHref: /front.html
-        subLabel: 前端
+        subLabel: Front
       -
         subHref: /js.html
         subLabel: Js
