@@ -218,7 +218,7 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: traperr
-    repo: blog-comments
+    repo: traperr.github.io
     oauth:
         client_id: 8db3bd2b5ccb60b4bd6d
         client_secret: 9353d1b17c445e2d5b1f9a84e6b5eb47c2676c4f
