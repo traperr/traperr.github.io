@@ -97,8 +97,7 @@ navs:
         subLabel: JVM
       -
         subHref: /javaweb.html
-        subLabel: JavaWeb
-     
+        subLabel: JavaWeb  
   -
     href: /spring.html
     label: Spring
@@ -112,75 +111,19 @@ navs:
         subLabel: Spring Boot
       -
         subHref: /spring-cloud.html
-        subLabel: Spring Cloud
-        
+        subLabel: Spring Cloud     
   -
     href: /computer.html
     label: Computer
     target: _self
-    subnav:
-      -
-        subHref: /computer.html
-        subLabel: Computer
-      -
-        subHref: /datastruct.html
-        subLabel: 数据结构
-      -
-        subHref: /combine.html
-        subLabel: 计算机组成原理
-      -
-        subHref: /net.html
-        subLabel: 计算机网络
-      -
-        subHref: /coper.html
-        subLabel: 操作系统
-  -
-    href: /zhongjian.html
-    label: Middleware
-    target: _self 
-    subnav:
-      -
-        subHref: /betnw.html
-        subLabel: Middleware
-      -
-        subHref: /tomcat.html
-        subLabel: Tomcat
-      -
-        subHref: /netty.html
-        subLabel: Netty
-      -
-        subHref: /rabbitMq.html
-        subLabel: RabbitMq
-      -
-        subHref: /nginx.html
-        subLabel: Nginx
-  -
-    href: /front.html
-    label: Front
-    target: _self 
-    subnav:
-      -
-        subHref: /front.html
-        subLabel: Front
-      -
-        subHref: /js.html
-        subLabel: Js
-      -
-        subHref: /jquery.html
-        subLabel: JQuery
-      -
-        subHref: /vue.html
-        subLabel: vueJs
-- 
+  - 
     href: /database.html
     label: DataBase
     target: _self 
-
   -
     href: /archives.html
     label: Archives
     target: _self
-
   -
     href: /about.html
     label: About
