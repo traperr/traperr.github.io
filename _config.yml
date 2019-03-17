@@ -7,11 +7,11 @@
 
 # Site settings
 title:  菜鸟大神
-subtitle: 分享技术，品味人生
+subtitle: 菜鸟进步，大神来凑
 name: 菜鸟大神 
-email: ityouknow@126.com
+email: 544502369@qq.com
 description: 本站是菜鸟大神的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,菜鸟大神,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+keywords: traperr,菜鸟大神,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.ico 
 
@@ -56,10 +56,6 @@ paginate_path: 'page:num'
 # Navigation. top menu list
 menus:
 
-  -
-    href: /money.html
-    label: 挣钱
-    target: _self
 
   -
     href: /life.html
@@ -81,11 +77,6 @@ menus:
     label: 友链
     target: _self
 
-  -
-    href: /about.html
-    label: 关于
-    target: _self
-
 
 # Navigation. main menu list
 navs:
@@ -93,31 +84,32 @@ navs:
   -
     href: /
     label: Home
-
-  -
-    href: /spring-boot.html
-    label: Spring Boot
-    target: _self
-    subnav:
-
-      -
-        subHref: /spring-boot.html
-        subLabel: Spring Boot
-
-      -
-        subHref: /spring-cloud.html
-        subLabel: Spring Cloud
-
-  -
-    href: /spring-cloud.html
-    label: Spring Cloud
-    target: _self
-
   -
     
     href: /java.html
     label: Java
+    target: _self 
+     
+  -
+    href: /spring.html
+    label: Spring
     target: _self
+    subnav:
+      -
+        subHref: /spring.html
+        subLabel: Spring
+      -
+        subHref: /spring-boot.html
+        subLabel: Spring Boot
+      -
+        subHref: /spring-cloud.html
+        subLabel: Spring Cloud
+        
+  -
+    href: /Computer.html
+    label: Archives
+    target: _self
+
 
   -
     href: /archives.html
@@ -170,7 +162,7 @@ classes:
   -
     href: /life.html
     name: 我的故事
-    describe: 生活就是故事，故事就是生活
+    describe: 记录生活中技术的轨迹
 
   -
     href: /arch.html
