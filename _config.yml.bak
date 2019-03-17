@@ -225,8 +225,8 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: traperr
-    repo: blog-comments
-    clientID: 1bfc53
+    repo: traperr.github.io
+    clientID: 8db3bd2b5ccb60b4bd6d
     clientSecret: 9353d1b17c445e2d5b1f9a84e6b5eb47c2676c4f
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
